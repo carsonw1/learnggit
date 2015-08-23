@@ -5,7 +5,7 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 branch manage strategy
-add coding: utf-8
+add coding: utf-8 and usr/bin/env & fix readme.txti conflict 
 
 
 
